@@ -1,0 +1,134 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.div_container{
+    height:100vh;
+    background-color: oldlace;
+    position: relative;
+    margin: 0 auto;
+}
+.div{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.div_1{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+    position: absolute;
+    left: 47%;
+    top: 23%;
+}
+.div_2{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+    position: absolute;
+    left: 58%;
+    top: 33%;
+    transform: translate(-40%,-30%);
+
+}
+.div_3{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+    position: absolute;
+    left: 57%;
+    top: 44%;
+}
+.div_4{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+    position: absolute;
+    left: 53%;
+    top: 60%;
+}
+
+.div_5{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+    position: absolute;
+    left: 45%;
+    top: 62%;
+}
+.div_6{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+    position: absolute;
+    left: 37%;
+    top: 58%;
+}
+.div_7{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+    position: absolute;
+    left: 36%;
+    top: 42%;
+}
+.div_8{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+    position: absolute;
+    left: 39%;
+    top: 26%;
+}
+
